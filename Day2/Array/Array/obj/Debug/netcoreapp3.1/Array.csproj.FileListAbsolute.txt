@@ -1,0 +1,12 @@
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/bin/Debug/netcoreapp3.1/Array.deps.json
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.json
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.dev.json
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/bin/Debug/netcoreapp3.1/Array.dll
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/bin/Debug/netcoreapp3.1/Array.pdb
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.csprojAssemblyReference.cache
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfoInputs.cache
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.csproj.CoreCompileInputs.cache
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.dll
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.pdb
+/Users/jack/Desktop/IHIS Training/VS/My Repo/Day2/Array/Array/obj/Debug/netcoreapp3.1/Array.genruntimeconfig.cache
