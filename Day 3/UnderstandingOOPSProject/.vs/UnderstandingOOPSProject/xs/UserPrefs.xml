@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{87103540-61AC-4E72-AB47-5FD40E8AF784}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingOOPSProject/Program.cs">
+    <Files>
+      <File FileName="UnderstandingOOPSProject/Program.cs" Line="24" Column="30" />
+      <File FileName="UnderstandingOOPSProject/Calculator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnderstandingOOPSProject" expanded="True">
+            <Node name="UnderstandingOOPSProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UnderstandingOOPSProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YuxYDu1x/bpjutATBJ2cLAOPfsyTMcNGh1trWDjqLqpvca7AqdNtTzTO++guJOXjgYt1kkEJkSAZ9rtyAAtRhg==",
+  "success": true,
+  "projectFilePath": "/Users/jack/Desktop/IHIS Training/VS/My Repo/Day 3/UnderstandingOOPSProject/UnderstandingOOPSProject/UnderstandingOOPSProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/jack/.nuget/packages/sonaranalyzer.csharp/8.23.0.32424/sonaranalyzer.csharp.8.23.0.32424.nupkg.sha512"
+  ],
+  "logs": []
+}
